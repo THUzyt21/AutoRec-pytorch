@@ -1,2 +1,4 @@
 # AutoRec-pytorch
-有很多中文注释，方便中国人学习
+深度学习推荐系统的早期模型，AutoRec的pytorch实现
+模型非常简单，原论文中就是单隐藏层的AutoEncoder，和Word2vec的模型结构完全相同，但是优化目标和训练方法有所不同。
+AutoRec模型拉开了DL解决推荐问题的序幕。
